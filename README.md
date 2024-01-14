@@ -9,14 +9,28 @@
 
 ## Tecnologias e Ferramentas
 
-💻 Front-end: 
+### 💻 Front-end: 
 HTML,CSS,JavaScript, React, Figma <br/>
-💻 & 📱Back-end e Mobile: Python, MySql, Firebase, React Native <br/>
-🛠️ Editor, Versionamento de Código e S.O: VsCode, Git, ZorionOS <br/>
-🚀 Linguagens e Ferramentas Adicionais: Python, React, ReactNative, JavaScript, C, Java, e mais... <br/>
+### 💻 & 📱Back-end e Mobile: 
+- Python,
+- MySql,
+- Firebase,
+- React Native <br/>
+### 🛠️ Editor, Versionamento de Código e S.O: 
+- VsCode,
+- Git,
+- ZorionOS <br/>
+### 🚀 Linguagens e Ferramentas Adicionais: 
+- Python,
+- React,
+- ReactNative,
+- JavaScript,
+- C,
+- Java,
+- Git e Github,
+- e mais... <br/>
 
 ## Colaboração e Contato
-
 👯 Colaboração: Interessado em contribuir com projetos envolvendo HTML, CSS, Java, Python, JavaScript, React, React Native, Node, TypeScript e Figma. <br/>
 🤔 Buscando ajuda com: Controllers e Hooks para aprofundar meu conhecimento. <br/>
 💬 Pergunte-me sobre: Desenvolvimento para Web e Mobile. <br/>
