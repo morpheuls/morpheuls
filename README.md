@@ -24,6 +24,6 @@ HTML,CSS,JavaScript, React, Figma <br/>
 Mais sobre mim
 
 😄 Pronomes: Ele/Dele<br>
-⚡ Fato divertido: Sou fascinado por transformar o mágia para a vida real, onde a tecnologia torna a magia possivel.
+⚡ Fato divertido: Sou fascinado por transformar o mágia para a vida real, onde a tecnologia torna a magia possível.
 
 <!-- a imagem foi animada do gatinho veio de: https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif--> 
