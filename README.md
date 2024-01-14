@@ -23,7 +23,7 @@ HTML,CSS,JavaScript, React, Figma <br/>
 📫 Contato: Para entrar em contato comigo, envie um e-mail para morpheuls01@gmail.com ou juan.ibanezdf@gmail.com. <br/>
 Mais sobre mim
 
-😄 Pronomes: Ele/Dele
-⚡ Fato divertido: Sou fascinado por transformar o mágico mundo dos sonhos em programação da vida real, onde a tecnologia torna tudo mágico.
+😄 Pronomes: Ele/Dele<br>
+⚡ Fato divertido: Sou fascinado por transformar o mágia para a vida real, onde a tecnologia torna a magia possivel.
 
 <!-- a imagem foi animada do gatinho veio de: https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif--> 
